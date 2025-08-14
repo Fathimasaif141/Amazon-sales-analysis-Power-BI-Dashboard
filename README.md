@@ -24,9 +24,10 @@ The objective was to **clean, transform, and visualize** the data to uncover act
 - Year-over-year and month-over-month comparisons
 - Dynamic visuals with responsive layout
 
-![Dashboard Preview](<img width="1371" height="674" alt="image" src="https://github.com/user-attachments/assets/2df58c5c-cda0-4971-8cb8-e22665eefa46" />
-)  
-*(Replace `dashboard-image.png` with your actual file name)*
+## 📷 Dashboard Preview
+<img width="1371" height="674" alt="image" src="https://github.com/user-attachments/assets/462da647-4809-44e1-80f8-7bff17807e44" />
+
+
 
 ## 🛠 Tools & Technologies
 - **Microsoft Excel (Power Pivot)**
