@@ -34,10 +34,6 @@ The objective was to **clean, transform, and visualize** the data to uncover act
 - **Microsoft Power BI**
 - **DAX for calculated measures**
 
-## 🚀 Future Enhancements
-In the upcoming update:
-- Integrate **Python** for advanced data processing
-- Automate ETL pipeline for faster refresh
-- Add predictive analytics models
+
 
 
