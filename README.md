@@ -25,8 +25,7 @@ The objective was to **clean, transform, and visualize** the data to uncover act
 - Dynamic visuals with responsive layout
 
 ## 📷 Dashboard Preview
-<img width="1371" height="674" alt="image" src="https://github.com/user-attachments/assets/462da647-4809-44e1-80f8-7bff17807e44" />
-
+<img width="1529" height="766" alt="image" src="https://github.com/user-attachments/assets/81a292a9-9ef5-42d5-9134-4aa02e1ba1e0" />
 
 
 ## 🛠 Tools & Technologies
